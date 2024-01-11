@@ -1,6 +1,7 @@
 # Questions 
 
-Detailed explanation is in [ANSWERS.md](./ANSWERS.md)
+Detailed explanation is in [ANSWERS-ENG.md](./ANSWERS-ENG.md).   
+Пошаговое решение в [ANSWERS-RU.md](./ANSWERS-RU.md).
 
 - Question 1
 ```Javascript
